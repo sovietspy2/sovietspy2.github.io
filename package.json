@@ -53,11 +53,8 @@
     "prettier": "^1.15.3"
   },
   "repository": {
-    "url": "https://github.com/LekoArts/gatsby-starter-portfolio-cara",
+    "url": "https://github.com/sovietspy2/sovietspy2.github.io",
     "type": "git"
   },
-  "bugs": {
-    "url": "https://github.com/LekoArts/gatsby-starter-portfolio-cara/issues"
-  },
-  "homepage": "https://cara.lekoarts.de"
+  "homepage": "https://sovietspy2.github.io"
 }
